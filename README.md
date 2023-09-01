@@ -17,7 +17,6 @@ El conjunto de datos utilizado en este proyecto es el "SMS Spam Collection Datas
 - **spam_classifier.ipynb**: Jupyter Notebook que contiene el código fuente y la implementación de los modelos de clasificación de spam utilizando Naive Bayes y Random Forest.
 - **spam.csv**: El archivo CSV que contiene los mensajes de texto y sus etiquetas (spam o no spam) utilizados para entrenar y evaluar los modelos.
 - **README.md**: Este archivo README que proporciona una descripción general del proyecto.
-- **requirements.txt**: Archivo que lista las dependencias y bibliotecas de Python necesarias para ejecutar el código.
 
 ### Archivos para Evaluar
 
