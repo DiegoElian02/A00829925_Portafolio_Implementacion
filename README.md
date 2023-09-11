@@ -17,6 +17,7 @@
 - **(Analisis)_Desempeño_del_modelo.pynb**: Jupyter Notebook que contiene el códgigo del análisis del modelo de clasificación de spam seleccionado y su mejora mediante técnicas de regularización.
 - **spam.csv**: El archivo CSV que contiene los mensajes de texto y sus etiquetas (spam o no spam) utilizados para entrenar y evaluar los modelos.
 - **Valhalla.csv**: El archivo CSV utilizado en el primer entregable, que contiene datos de 'Celsius' y 'Valks'.
+- **spam_rf.py**: Modulo con función para ejecutar el modelo del entregable 2 eficientemente. 
 - **README.md**: Este archivo README que proporciona una descripción general del proyecto.
 
 ### Archivos para Evaluar
